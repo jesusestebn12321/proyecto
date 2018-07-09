@@ -33,6 +33,26 @@ body {
 	width:300px;
 	height:300px;
 }
+.logeado {
+    color:#fff;
+    font-size: 28px;
+	position: absolute;
+	top: 50%;
+	left: 50%;
+	margin: -100px 0 0 -150px;
+	width:600px;
+	height:300px;
+}
+.logeado2 {
+    color:#fff;
+    font-size: 28px;
+	position: absolute;
+	top: 900%;
+	left: 50%;
+	margin: -100px 0 0 -150px;
+	width:600px;
+	height:300px;
+}
 .login h1 { color: #fff; text-shadow: 0 0 10px rgba(0,0,0,0.3); letter-spacing:1px; text-align:center; }
 
 input { 
